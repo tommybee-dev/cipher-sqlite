@@ -1,0 +1,6 @@
+[submodule "SQLite-Android-Bindings"]
+	path = SQLite-Android-Bindings
+	url = https://github.com/moneymanagerex/SQLite-Android-Bindings.git
+[submodule "android-database-sqlcipher"]
+	path = android-database-sqlcipher
+	url = https://github.com/sqlcipher/android-database-sqlcipher.git
