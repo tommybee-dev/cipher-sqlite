@@ -4,3 +4,6 @@
 [submodule "android-database-sqlcipher"]
 	path = android-database-sqlcipher
 	url = https://github.com/sqlcipher/android-database-sqlcipher.git
+[submodule "openssl-android"]
+	path = openssl-android
+	url = https://github.com/guardianproject/openssl-android.git
